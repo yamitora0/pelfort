@@ -2,6 +2,12 @@
   "name": "PELFORT",
   "symbol": "$PELF",
   "description": "The only problem you're gonna have is that you didn't buy more.",
-  "image": "https://github.com/yamitora0/pelfort/blob/main/logo.png"
+  "image": "https://github.com/yamitora0/pelfort/blob/main/logo.png",
+  "external_url": "https://www.neverfuckingleaving.com",
+  "properties": {
+    "socials": {
+      "twitter": "https://twitter.com/PelfortSolana",
+      "telegram": "https://t.me/pelfortportal"
+    }
+  }
 }
-
